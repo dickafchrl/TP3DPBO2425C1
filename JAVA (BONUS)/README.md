@@ -9,4 +9,4 @@ Relasi :
 Hirarki Inheritance, Asosiasi, Agregasi, Composite
 
 ## Dokumentasi
-<img width="1920" height="1200" alt="Screenshot 2025-02-19 145703" src="https://github.com/user-attachments/assets/bd3b1c20-0a83-41ca-8c52-87d591db9328" />
+<img width="1077" height="881" alt="Screenshot 2025-10-03 232436" src="https://github.com/user-attachments/assets/c50863e2-88ef-458a-be16-6f0197d57301" />
